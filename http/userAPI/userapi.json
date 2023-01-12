@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "name" : "bipin",
+        "house" : "blue",
+        "roll_no": 71093,
+        "aim":"army"
+    },
+    {
+        "id":2,
+        "name":"sashant",
+        "house": "blue",
+        "roll_no":71117,
+        "aim":"scientist"
+    },
+    {
+        "id":3,
+        "name":"sujan",
+        "house":"green",
+        "roll_no":71118,
+        "aim":"coder"
+    }
+]
